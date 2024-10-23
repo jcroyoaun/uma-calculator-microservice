@@ -25,6 +25,10 @@ def create_app():
     from routes import api
     app.register_blueprint(api, url_prefix='/api/v1')
     
+    # Register CLI commands
+    from commands import update_uma_command
+    app.cli.add_command(update_uma_command)
+    
     # Create database tables
     with app.app_context():
         db.create_all()
