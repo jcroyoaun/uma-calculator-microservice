@@ -1,0 +1,377 @@
+Skip to content
+
+Home
+Our Services
+Why Mexico?
+Mexican Laws In English
+Resources
+Contact
+Schedule a Meeting
+Taxes in Mexico
+Social Security in Mexico: The Whole Picture
+January 14, 2023
+Roberto Cornejo
+Home » Taxes in Mexico » Social Security in Mexico: The Whole Picture
+
+Last updated on May 10th, 2024 at 01:47 pm
+
+Social security in Mexico is a right that every worker has. Firstly, it ensures that workers have access to health care and it guarantees their income in case of sickness or maternity. Secondly, through social security, workers create a retirement fund with the aid of their employers. Therefore, once they become too old to continue working, they will have an income that will allow them to support themselves for the rest of their lives.  
+
+IMPORTANT: This article has been updated according to the Mexican Decree amending Articles 76 and 78 of the Federal Labor Law regarding vacations issued in December 2022. 
+
+In this article, we will go in-depth about how social security in Mexico works and the contributions made by both workers and employers.
+
+--> Download Now: Mexico's Social Security Calculator [Free Resource]
+
+To easily navigate this article you can use the following table of content.
+
+Table of Contents
+Social Security in Mexico: A Legal Overview
+IMSS Mexico: The Mexican Social Security Institute
+Worker-Employer Fees 
+Mexican Social Security Registration
+INFONAVIT: Social Housing in Mexico
+Mexican Social Security Benefits
+Work Risk Insurance
+Disease And Maternity Insurance
+Disablement And Life Insurance
+Retirement: Advanced Age Severance and Old Age
+Nursery And Social Benefits
+INFONAVIT
+Other Concepts Involved in the Calculation of Social Security In Mexico
+Base Listed Salary
+Base Listed Salary Calculation
+The Measurement and Updating Unit (UMA)
+Minimum Wage In Mexico
+Advanced Age Severance Fee
+How to Calculate Social Security In Mexico
+Conclusion
+Social Security in Mexico: A Legal Overview
+Social security and bad labor conditions were among the reasons for Mexico’s revolution in 1910. The winners of the revolution created a new constitution in 1917.
+
+Article 123 of the Mexican Political Constitution, located in the Sixth Title, “On Labor & Social Security,” condenses the legal basis for these topics. Regulating an entire country’s labor and social security is impossible with one article. So, the Mexican Social Security Law and Labor Law stem directly from this article of our constitution. 
+
+Article 5 of the Mexican Social Security Law discusses the institution regulating social security in Mexico. 
+
+A public hospital of the Mexican Social Security Institute (IMSS), the institute in charge of social security in Mexico
+
+IMSS Mexico: The Mexican Social Security Institute
+The institution in charge of social security in Mexico is the Mexican Social Security Institute, commonly known as IMSS, because of its name in Spanish (Instituto Mexicano del Seguro Social). Therefore, IMSS’ mission is to provide medical attention and social security to all Mexican workers. 
+
+The law states that IMSS is a decentralized public organism with its legal personality. Therefore it establishes its regulations to achieve its goals. However, these regulations must align with the Federal Social Security Law and the Mexican Constitution. 
+
+ 
+
+Worker-Employer Fees 
+For the Mexican Social Security Institute to operate correctly, it requires economic support from the government and payments made by all registered employer and their workers. As a result, pensions and social security in Mexico keep on running.
+
+Every worker contributes a portion of his salary to his retirement, medical insurance, and other concepts. At the same time, the employer must contribute to these concepts to benefit the worker. Thus, the total amount paid to the IMSS is called Worker – Employer Fees or Cuotas Obrero – Patronales.
+
+The employer must perform these calculations, withhold those payments, and pay them to the IMSS. 
+
+But how does this work?
+
+Mexican Social Security Registration
+Firstly, every company that hires a worker must register itself before the Mexican Social Security Institute as an employer. We call this Alta Patronal, which roughly translates to Employer Registration. 
+
+Secondly, every company has to register each worker before the IMSS. Consequently, they create an account for workers in the Mexican Social Security Institute, where they accrue payments the rest of their lives. If they change jobs, they use the same account under a different employer registration.
+
+Lastly, once your company registered your workers at the IMSS, it must calculate and pay the Worker-Employer Fees. You do this through a Reference Payment System called “SIPARE”  because of its name in Spanish. This is a digital tool that makes Mexican social security payments easy. 
+
+Offices of the Mexican National Housing Fund Institute
+
+INFONAVIT: Social Housing in Mexico
+Every worker in Mexico has a constitutional right to decent housing. Therefore, social housing is a part of social security in Mexico. However, a different institute manages and oversees it. This is the National Housing Fund Institute, commonly known as INFONAVIT because of its name in Spanish (Instituto del Fondo Nacional de la Vivienda para Los Trabajadores). The government created the Institute in 1972 by issuing the National Housing Fund Institute Law. 
+
+INFONAVIT’s mission is to guarantee every Mexican worker decent housing. It achieves to do that by creating a fund with the contributions that employers make to their workers. Then, it uses this money to provide mortgage loans to workers to ensure they can buy a decent house. Furthermore, it receives a subsidy from the government to ensure that these loans remain competitive.  
+
+Whenever a company registers at the IMSS, it automatically becomes registered at INFONAVIT.
+
+Now, on to the Mexican social security concepts and the proportion of the salary they charge as deductions from both the worker and the employer.
+
+Mexican Social Security Benefits
+Article 11 of the Mexican Social Security Law talks about a mandatory regime, which includes insurance for the following.
+
+Occupational risks;
+Sickness and maternity;
+Disability and life;
+Retirement, severance at an advanced age and old age; and
+Childcare and social benefits.
+Companies calculate each of these as a percentage of the worker’s salary. However, as stated earlier, employers and workers pay a part of the total.
+
+The IMSS subdivides these benefits into subcategories. Additionally, you will see that some of these subcategories are called “In Money” and “In-Kind.” But do not let the terms fool you. Your company makes all the payments in money. 
+
+In-Kind and In-Money, in this context, means the worker may, in the end, obtain the benefit as a sum of money, e.g., pension or maternity leave, or obtain the benefit-in-kind, e.g., medical attention, medicines, childcare, etc.
+
+Let’s see how this works.
+
+Work Risk Insurance
+Every industry and type of employment environment has a different level of risk linked to it. Furthermore, the IMSS has identified and divided five different levels or categories of risk. Level I refers to jobs with insignificant risks, such as office work. On the other hand, Level V could be some mining activities where the work gets pretty dangerous.
+
+Each risk level has an associated risk premium. This premium is the percentage we use to calculate the work risk insurance payment. Only the company contributes to this category.
+
+The following table specifies the risk category and the corresponding premium.
+
+Mexican Social Security Institute Risk Categories Overall
+Risk Category	Premium %
+Class I
+0.54355
+Class II
+1.13065
+Class III
+2.59840
+Class IV
+4.65325
+Class V
+7.58875
+Disease And Maternity Insurance
+The Mexican Social Security Institution grants its affiliated workers benefits if they get sick and, for women, during maternity leave. For example, maternity leave in Mexico lasts 12 weeks. During this period, working mothers receive a subsidy of 100% of their salary. The Social Security Institute pays for this.
+
+Insurance covers medical attention, surgery, medicines, and hospitals for diseases. When workers are ill and incapable of working, they also receive a subsidy to continue obtaining a salary. In the case of maternity, insurance covers all medical attention, in-kind help for lactation, and an in-money subsidy of 100% of the worker’s salary for 42 days before and 42 days after labor.
+
+Also, the IMSS offers medical insurance for pensioners and their families.
+
+ 
+
+Benefits In-Kind
+This subcategory of benefits refers to all those not given to the employee as money, i.e., medical assistance, surgery, hospitalization, and medicines.
+
+Employer Contribution
+Fixed Fee: 20.40% of the current UMA value. 
+Surplus Fee: If the employee makes more than three times the value of UMA, a fee is paid on the surplus of 1.10%.
+Worker Contribution
+Surplus Fee: If the employee makes more than three times the value of UMA, a fee of 0.4% is paid by the worker on the surplus.
+Medical Expenses for Pensioners And Their Beneficiaries.
+Once a worker retires, he has medical insurance for himself and his beneficiaries (spouse and underage kids). Indeed, he pays for this insurance throughout his productive years, with a subsidy from his employer. 
+
+Company contribution:  1.05% of the BLS.
+Worker contribution: 0.375% of the BLS.
+Benefits In Money
+This benefit is explicitly for the 84 days of salary in the case of maternity or the in-money subsidy when the worker is incapacitated by disease. 
+
+Employer contribution:  0.7% of the BLS.
+Worker contribution: 0.25% of the BLS.
+Disablement And Life Insurance
+This insurance functions when a worker has an accident because of his work and becomes disabled or dies. It is paid in kind and money.
+
+Company contribution:  1.75% of the BLS.
+Employee contribution: 0.625% of the BLS.
+ 
+Retirement: Advanced Age Severance and Old Age
+These benefits are specifically for two different types of pension funds.
+
+Advanced Age Severance: A worker is entitled to it if he is over 60 and has been listed in the IMSS for at least 25 years.
+Old Age: A worker is entitled to it if he is 65 and has been listed at the IMSS for at least 25 years.
+The contributions are as follows.
+
+Employer Contribution
+Old Age:  2% of the BLS.
+Advanced Age Severance: The law was amended at the end of 2022. From January 1st, 2023, this concept shall be paid according to the table in Article 168 of the Mexican Social Security Law.
+Worker Contribution
+Old Age: None.
+Advanced Age Severance: 1.125% of the BLS.
+Nursery And Social Benefits
+Finally, this benefit is for daycare workers’ children while the parent works.
+
+Employer contribution:  1% of the BLS.
+Worker contribution: None.
+INFONAVIT
+Company contribution:  5% of the BLS.
+Employee contribution: None.
+Concept	Type of Benefit	Company	Employee	Calculation Base
+Work Risk	In-Kind and Money	Premium according to Risk Category	0.00%	Base Listed Salary
+Disease And Maternity Insurance	In-Kind	20.40 %	0.00 %	Monthly UMA
+1.10 %	0.40 %	Difference between BLS and 3 times UMA
+Medical Expenses for Pensioners And Their Beneficiaries.	1.05 %	0.375 %	Base Listed Salary
+In Money	0.70 %	0.25 %	Base Listed Salary
+Disablement and Life Insurance	In-Kind & Money	1.75 %	0.625 %	Base Listed Salary
+Retirement; Advanced Age Severance and Old Age	Old Age	2.00 %	0.00 %	Base Listed Salary
+Advanced Age Severance	3.150 % - 11.88%	1.125 %	Base Listed Salary
+Nursery and Social Benefits	In-Kind	1.00 %	0.00 %	Base Listed Salary
+INFONAVIT	In Money	5.00%	0.00%	Base Listed salary
+Other Concepts Involved in the Calculation of Social Security In Mexico
+Lastly, we need to know three things to calculate the worker’s and the employer’s deductions.
+
+The base listed salary of our workers.
+The Measurement and Updating Unit (UMA).
+The minimum wage in Mexico.
+ 
+Base Listed Salary
+First, let’s get legal. Specifically, Article 27 of Mexico’s Social Security Law stipulates that the Base Listed Salary is the amount on which the benefits given to the employee are calculated. To calculate it, you must integrate all the mandatory employee benefits, i.e., vacations, vacations premium, and Aguinaldo (Christmas bonus), into the worker’s salary. 
+
+Vacations were duplicated starting January 1st, 2023, by a Decree issued in December 2022. If you want to know more about these concepts, we recommend reading our article on employee benefits in Mexico. However, here’s a quick summary.
+
+Christmas Bonus. In Mexico, employees who have worked for the company for more than one year are entitled to a Christmas bonus equal to or higher than fifteen days of their salary.
+Vacations. Employees who have worked for the company for more than one year are entitled to paid vacations annually. This period starts at 12 days, and two days are added for each year of continuous employment until the fifth year. After that, it is increased by two days every four years.
+Vacation Premium. Mexican companies pay an extra premium of 25% on top of their employees’ regular salary on vacations.
+ 
+Base Listed Salary Calculation
+Firstly, we need to calculate the worker’s daily salary. So, let’s see an example. Let’s think about Raul, an excellent employee who has worked for the company doing administrative tasks for two and a half years. So, let’s say he makes MXN 10,000 a month.
+
+We divide his monthly salary by 30, the standardized monthly days.
+
+ 
+
+
+
+ 
+
+Certainly, Raul has continuously worked for your company for one year. Therefore, he gets 12 days of vacation annually, with a mandatory vacation premium of 25%. Besides, Raul’s Aguinaldo (Christmas Bonus) is the mandatory 15 days.
+
+Finally, we have all the information we need. Subsequently, we need to obtain our integration factor.
+
+We are trying to obtain the number of days the worker earns a salary in a year. So we add the extra days (Vacation Days and Christmas Bonus days) to 365, which is the number of days in a year. Then, we convert the vacation premium to days by multiplying the premium by the vacation days.
+
+Christmas Bonus 15 days.
+Vacations 12 days.
+Vacation Premium of 3 days (12 days * 25%).
+ 
+Concept	Days
+Annual Work Days	365
+(+) Vacation Days	12
+(+) Christmas Bonus Days	15
+(+) Vacation Premium (25% * 12)	3
+(=) Total Days	395
+(/) Days in a year	365
+Integration Factor =	1.0822
+This gives us an integration factor of 1.0822. Now we multiply Raul’s daily salary times the integration factor to obtain his Base Listed Salary.
+
+Concept	Amount
+Daily Salary	333.33
+(X) Integration Factor	1.0822
+(=) Raul's Daily BLS	$360.73
+(X) 30 Days	 
+(=) Raul's Monthly BLS	$10,821.92
+And voila, Raul’s Monthly Base Listed Salary is $10,821.92, and all the benefits will be calculated on that amount.
+
+The Measurement and Updating Unit (UMA)
+The Unidad de Medida y Actualización (UMA) is an economic reference unit. It is linked to inflation and used in Mexico to pay fines and social housing loans. The National Institute of Geography and Statistics (INEGI in Spanish) calculates the UMA. You can see 2023’s published here.
+
+Why is it important to calculate social security in Mexico? Because IMSS allows for a maximum Base Listed Salary limit of 25 UMAs. Besides, some deductions are made on this unit. 
+
+UMAs change every year. But don’t worry; bookmark this article, and we will keep it updated.
+
+Concept	Mexican Pesos	US Dollars
+Daily UMA	MXN $108.57	US $5.44
+Monthly UMA	MXN $3,300.53	US $165.42
+Minimum Wage In Mexico
+Mexico has two different minimum wages. One is the standard minimum wage used in the country. And there is a specific minimum wage for an area around the northern border. 
+
+The idea behind elevating the Mexican minimum wage at the northern border region is to prevent Mexican workers from migrating to the United States, where salaries are higher. Mexico’s minimum wage is a benchmark for many legal calculations and we will need it to calculate the employer’s Advanced Age Severance fee. 
+
+General Minimum Wage in Mexico	Northern Border Minimum Wage
+MXN $248.93	MXN $374.89
+US $14.83	US $22.34
+ 
+
+Advanced Age Severance Fee
+On December 2022, a Decree was issued amending Article 168 of the Mexican Social Security Law. So, effective from January 1st, 2023, the new way to calculate the employer’s Advanced Age and Severance fee is done according to the following table.
+
+From	To	Rate
+1	0	MXN $248.93	3.150%
+2	MXN $251.42	MXN $162.86	3.413%
+3	MXN $163.94	MXN $217.14	4.000%
+4	MXN $218.23	MXN $271.43	4.353%
+5	MXN $272.51	MXN $325.71	4.588%
+6	MXN $326.80	MXN $380.00	4.756%
+7	MXN $381.08	MXN $434.28	4.882%
+8	MXN $435.37	MXN $435.37	5.331%
+Since we know that Raul’s daily BLS is $360.73, we know he ranks at level 6, so we need to pay an Advanced Age Severance fee of 9.57%.
+
+ 
+
+How to Calculate Social Security In Mexico
+Firstly, we have to find the risk premium according to the type of work that Raul performs. Since he does administrative tasks and performs all his activities from a computer in an office environment, the risk premium would be Class I, with a premium of 0.54355%. 
+
+
+
+Secondly, we need to calculate his surplus fee to calculate the In-Kind part of Disease and Maternity Insurance. 
+
+Concept	Amount
+Monthly BLS	$10,821.92
+(-) Monthly UMA * 3	$9,901.59
+(=) Raul's Surplus	$920.33
+We have everything we need to calculate social security in Mexico for our employee, Raul.
+
+Monthly BLS = $10,821.92
+Risk Premium = 0.54355%
+Disease & Maternity Insurance Surplus = $1,360.82 
+Advanced Age Severance Employer Fee = 9.57%
+The rest is pretty straightforward so let’s do the calculation in a table. 
+
+Mexican Social Security for a $10,000 Salary
+Type of Benefit	Company	Employee	Calculation Base	Company Contribution	Employee Contribution
+Work Risk	0.54355%	0.00%	BLS	$58.82	$0.00
+D. & M. Insurance In-Kind	20.40%	0.00 %	Monthly UMA	$673.31	$0.00
+1.10%	0.40%	Surplus	$10.12	$3.68
+Medical Expenses for Pensioners And Their Beneficiaries.	1.05%	0.38%	BLS	$113.63	$40.58
+D. & M. Insurance In Money	0.70%	0.25%	BLS	$75.75	$27.05
+Disablement & Life Insurance	1.75%	0.63%	BLS	$189.38	$67.64
+Retirement Old Age	2.00%	0.00%	BLS	$216.44	$0.00
+Retirement Advanced Age Severance	9.57%	1.13%	BLS	$1,035.66	$121.75
+Nursery & Social Benefits	1.00%	0.00%	BLS	$108.22	$0.00
+INFONAVIT	5.00%	0.00%	BLS	$541.10	$0.00
+TOTAL	$3,022.43	$260.70
+Company’s Contribution = $2,997.32
+Employee’s Contribution = $262.46
+ 
+Conclusion
+Social security in Mexico is a right that every employee has. In Mexico, both companies and employees need to make contributions to the employee’s social security. These contributions are calculated as a percentage of the base listed salary and, in some cases, of the current monthly UMA. 
+
+If you wish to understand the rest of business taxes in Mexico, you can read our guide. Therefore you can be ready to start a business in the country.
+
+Do you still have questions about how to calculate social security in Mexico?
+
+Drop them in the comments below!
+
+2 Responses
+Howard says:
+October 30, 2022 at 10:47 pm
+“Firstly, every company that hires a worker has the obligation of registering itself before the Mexican Social Security Institute as an employer. This is called Alta Patronal, which roughly translates to Employer Registration.”
+
+So, if I am reading this correctly, every business that hires employees is required by law to register with IMSS. This would include restaurants, Gas stations, clothing stores, and all companies that hire employees. This would be optional for a solo proprietor who owns a business without employees. How is this enforced if an employer chooses not to register with IMSS?
+
+Reply
+Roberto Cornejo says:
+November 4, 2022 at 5:05 am
+Hey Howard, the reality is that a solo proprietor does not need to register at IMSS if he doesn’t have employees. If you don’t have a payroll to pay you don’t need to be registered.
+
+Reply
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+
+Comment * 
+
+Name 
+
+Email 
+
+Website 
+
+
+
+Picture of Roberto Cornejo
+Roberto Cornejo
+
+Telework Mexico: Remote Work Regulations
+August 30, 2024  No Comments
+Read More »
+REPSE In Mexico: Outsourcing Law
+REPSE In Mexico: Outsourcing Law
+July 30, 2024  No Comments
+Read More »
+Sitemap
+Blog Categories
+Taxes in Mexico
+Starting a Business In Mexico
+Manufacturing In Mexico
+Labor Laws In Mexico
+Immigration to Mexico
+Subscribe to our Newsletter
+
+Contact
+contact@start-ops.com.mx
+Lope de Vega #26, Col. Arcos Vallarta. C.P. 44130. Guadalajara, Jalisco.
+FREE MEXICO'S SOCIAL SECURITY CALCULATOR
+DOWNLOAD NOW
+
