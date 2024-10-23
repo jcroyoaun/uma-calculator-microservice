@@ -4,7 +4,7 @@ from datetime import datetime
 from typing import Optional, Tuple
 import os
 
-from app import db
+from database import db
 from models import UMAValue
 
 logger = logging.getLogger(__name__)

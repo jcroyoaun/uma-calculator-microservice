@@ -43,23 +43,25 @@ def validate_voucher(**kwargs):
     try:
         amount = kwargs.get('amount', 0)
         response = voucher_service.validate_voucher(amount)
+        if not response['is_valid']:
+            return response, 400
         return response
-    except (TypeError, ValueError):
+    except (TypeError, ValueError) as e:
         return {
             'is_valid': False,
-            'current_amount': 0,
+            'current_amount': kwargs.get('amount', 0),
             'limit': MAX_ANNUAL_AMOUNT,
-            'remaining': MAX_ANNUAL_AMOUNT,
-            'message': 'Invalid amount format'
+            'remaining': voucher_service.get_annual_remaining(),
+            'message': str(e) or 'Invalid amount format'
         }, 400
     except VoucherError as e:
         return {
             'is_valid': False,
-            'current_amount': amount,
+            'current_amount': kwargs.get('amount', 0),
             'limit': MAX_ANNUAL_AMOUNT,
             'remaining': voucher_service.get_annual_remaining(),
             'message': str(e)
-        }, e.code
+        }, 400
 
 @api.route('/vouchers/remaining', methods=['GET'])
 @doc(

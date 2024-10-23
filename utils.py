@@ -1,8 +1,8 @@
 from datetime import datetime
-from typing import Optional
+from typing import Optional, Union
 from decimal import Decimal, ROUND_HALF_UP
 
-def round_amount(amount: float, decimals: int = 2) -> float:
+def round_amount(amount: Union[int, float, Decimal], decimals: int = 2) -> float:
     """Round amount to specified decimals"""
     if not isinstance(amount, (int, float, Decimal)):
         raise ValueError("Amount must be a number")

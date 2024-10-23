@@ -9,5 +9,5 @@ MAX_ANNUAL_AMOUNT = MONTHLY_UMA * ANNUAL_MAX_DEPOSITS  # ~23,103.71 MXN
 ERRORS = {
     'EXCEED_MONTHLY': 'Amount exceeds monthly UMA limit of {:.2f} MXN',
     'EXCEED_ANNUAL': 'Amount would exceed annual UMA limit of {:.2f} MXN',
-    'INVALID_AMOUNT': 'Amount must be a positive number',
+    'INVALID_AMOUNT': 'Invalid amount',
 }

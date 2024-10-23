@@ -1,5 +1,5 @@
 from datetime import datetime
-from app import db
+from database import db
 
 class UMAValue(db.Model):
     """Stores historical UMA values"""
