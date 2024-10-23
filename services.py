@@ -5,7 +5,6 @@ from typing import Optional
 from constants import MONTHLY_UMA, MAX_ANNUAL_AMOUNT, ERRORS
 from exceptions import VoucherError, LimitExceededError, InvalidAmountError
 from models import VoucherTransaction
-from schemas import LimitResponse
 
 class VoucherService:
     @staticmethod
@@ -29,7 +28,7 @@ class VoucherService:
         used = VoucherTransaction.get_annual_total(year)
         return float(Decimal(str(MAX_ANNUAL_AMOUNT)) - Decimal(str(used)))
 
-    def validate_voucher(self, amount: float) -> LimitResponse:
+    def validate_voucher(self, amount: float) -> dict:
         """Validate if voucher amount is within limits"""
         try:
             self.validate_amount(amount)
@@ -41,18 +40,18 @@ class VoucherService:
                     ERRORS['EXCEED_ANNUAL'].format(MAX_ANNUAL_AMOUNT)
                 )
 
-            return LimitResponse(
-                is_valid=True,
-                current_amount=amount,
-                limit=MAX_ANNUAL_AMOUNT,
-                remaining=remaining
-            )
+            return {
+                'is_valid': True,
+                'current_amount': amount,
+                'limit': MAX_ANNUAL_AMOUNT,
+                'remaining': remaining
+            }
 
         except VoucherError as e:
-            return LimitResponse(
-                is_valid=False,
-                current_amount=amount,
-                limit=MAX_ANNUAL_AMOUNT,
-                remaining=self.get_annual_remaining(),
-                message=str(e)
-            )
+            return {
+                'is_valid': False,
+                'current_amount': amount,
+                'limit': MAX_ANNUAL_AMOUNT,
+                'remaining': self.get_annual_remaining(),
+                'message': str(e)
+            }

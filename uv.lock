@@ -2,6 +2,18 @@ version = 1
 requires-python = ">=3.11"
 
 [[package]]
+name = "apispec"
+version = "6.7.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "packaging" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/7c/09/2d5b33f12feb18375c11c6ca518be49a8355e4be3a3581b27a7faf83983b/apispec-6.7.0.tar.gz", hash = "sha256:fa2cf1063bb227ed6f7f66b019f320d7dc0a7cb02acdf166a160e2381f4b2c39", size = 76654 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/6f/70/737ec569cd391d38ef3ab9ba47339dfbac2e8d10d7fc92fbedb484fe8cad/apispec-6.7.0-py3-none-any.whl", hash = "sha256:7d2f2be3ceb7385eca550e4a2cc1e4d4a640093cc8fe04224301aa395a785b25", size = 30378 },
+]
+
+[[package]]
 name = "beautifulsoup4"
 version = "4.12.3"
 source = { registry = "https://pypi.org/simple" }
@@ -142,6 +154,21 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/41/e1/d104c83026f8d35dfd2c261df7d64738341067526406b40190bc063e829a/flask-3.0.3.tar.gz", hash = "sha256:ceb27b0af3823ea2737928a4d99d125a06175b8512c445cbd9a9ce200ef76842", size = 676315 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/61/80/ffe1da13ad9300f87c93af113edd0638c75138c42a0994becfacac078c06/flask-3.0.3-py3-none-any.whl", hash = "sha256:34e815dfaa43340d1d15a5c3a02b8476004037eb4840b34910c6e21679d288f3", size = 101735 },
+]
+
+[[package]]
+name = "flask-apispec"
+version = "0.11.4"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "apispec" },
+    { name = "flask" },
+    { name = "marshmallow" },
+    { name = "webargs" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ac/a1/90402387bbe235f3206c0aa0bd1815fce042ac2370b1d3c8ceaa16149074/flask-apispec-0.11.4.tar.gz", hash = "sha256:9a6fedd3a06510a8a19340df676393b336b4ba9d5c159cbb304b62672e3115da", size = 2335497 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/e5/06/0b443700936d93236ad571e6afea21a8de81ed73fbfd26e74ee1a62fd9ec/flask_apispec-0.11.4-py2.py3-none-any.whl", hash = "sha256:dba490a42ffe5e45040a667a5551678099c677eb65b6d5e420cf59ce1dcb6adb", size = 2358749 },
 ]
 
 [[package]]
@@ -337,6 +364,27 @@ wheels = [
 ]
 
 [[package]]
+name = "marshmallow"
+version = "3.23.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "packaging" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/b7/41/05580fed5798ba8032341e7e330b866adc88dfca3bc3ec86c04e4ffdc427/marshmallow-3.23.0.tar.gz", hash = "sha256:98d8827a9f10c03d44ead298d2e99c6aea8197df18ccfad360dae7f89a50da2e", size = 177439 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/9a/9e/f8f0308b66ff5fcc3b351ffa5fcba19ae725dfeda75d3c673f4427f3fc99/marshmallow-3.23.0-py3-none-any.whl", hash = "sha256:82f20a2397834fe6d9611b241f2f7e7b680ed89c49f84728a1ad937be6b4bdf4", size = 49490 },
+]
+
+[[package]]
+name = "packaging"
+version = "24.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/51/65/50db4dda066951078f0a96cf12f4b9ada6e4b811516bf0262c0f4f7064d4/packaging-24.1.tar.gz", hash = "sha256:026ed72c8ed3fcce5bf8950572258698927fd1dbda10a5e981cdf0ac37f4f002", size = 148788 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl", hash = "sha256:5b8f2217dbdbd2f7f384c41c628544e6d52f2d0f53c6d0c3ea61aa5d1d7ff124", size = 53985 },
+]
+
+[[package]]
 name = "psycopg2-binary"
 version = "2.9.10"
 source = { registry = "https://pypi.org/simple" }
@@ -386,8 +434,10 @@ dependencies = [
     { name = "beautifulsoup4" },
     { name = "email-validator" },
     { name = "flask" },
+    { name = "flask-apispec" },
     { name = "flask-sqlalchemy" },
     { name = "lxml" },
+    { name = "marshmallow" },
     { name = "psycopg2-binary" },
     { name = "requests" },
 ]
@@ -397,8 +447,10 @@ requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "email-validator", specifier = ">=2.2.0" },
     { name = "flask", specifier = ">=3.0.3" },
+    { name = "flask-apispec", specifier = ">=0.11.4" },
     { name = "flask-sqlalchemy", specifier = ">=3.1.1" },
     { name = "lxml", specifier = ">=5.3.0" },
+    { name = "marshmallow", specifier = ">=3.23.0" },
     { name = "psycopg2-binary", specifier = ">=2.9.10" },
     { name = "requests", specifier = ">=2.32.3" },
 ]
@@ -480,6 +532,19 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/ed/63/22ba4ebfe7430b76388e7cd448d5478814d3032121827c12a2cc287e2260/urllib3-2.2.3.tar.gz", hash = "sha256:e7d814a81dad81e6caf2ec9fdedb284ecc9c73076b62654547cc64ccdcae26e9", size = 300677 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/ce/d9/5f4c13cecde62396b0d3fe530a50ccea91e7dfc1ccf0e09c228841bb5ba8/urllib3-2.2.3-py3-none-any.whl", hash = "sha256:ca899ca043dcb1bafa3e262d73aa25c465bfb49e0bd9dd5d59f1d0acba2f8fac", size = 126338 },
+]
+
+[[package]]
+name = "webargs"
+version = "8.6.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "marshmallow" },
+    { name = "packaging" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/8c/51/e9ee5d8315864adf65e92f858f826514538e30db542d4782dd94c2418464/webargs-8.6.0.tar.gz", hash = "sha256:b8d098ab92bd74c659eca705afa31d681475f218cb15c1e57271fa2103c0547a", size = 96610 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/79/bb/b9b77adeecffd7b41615a7ebd607ac28bd9e09f357d31ce68073b77f0f30/webargs-8.6.0-py3-none-any.whl", hash = "sha256:83da4d7105643d0a50499b06d98a6ade1a330ce66d039eaa51f715172c704aba", size = 31831 },
 ]
 
 [[package]]

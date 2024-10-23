@@ -1,24 +1,24 @@
-from dataclasses import dataclass
-from datetime import date
-from typing import Optional
+from marshmallow import Schema, fields
 
-@dataclass
-class VoucherAmount:
-    amount: float
-    transaction_date: Optional[date] = None
+class VoucherAmountSchema(Schema):
+    amount = fields.Float(required=True, description="Voucher amount to validate")
+    transaction_date = fields.Date(required=False, description="Transaction date (optional)")
 
-@dataclass
-class LimitResponse:
-    is_valid: bool
-    current_amount: float
-    limit: float
-    remaining: float
-    message: Optional[str] = None
+class LimitResponseSchema(Schema):
+    is_valid = fields.Boolean(description="Whether the amount is within limits")
+    current_amount = fields.Float(description="Current voucher amount")
+    limit = fields.Float(description="Maximum limit")
+    remaining = fields.Float(description="Remaining amount available")
+    message = fields.String(description="Error message if any")
 
-@dataclass
-class UMAResponse:
-    daily_value: float
-    monthly_value: float
-    max_monthly_deposit: float
-    max_annual_deposit: float
-    annual_deposits_allowed: int
+class UMAResponseSchema(Schema):
+    daily_value = fields.Float(description="Daily UMA value")
+    monthly_value = fields.Float(description="Monthly UMA value")
+    max_monthly_deposit = fields.Float(description="Maximum monthly deposit allowed")
+    max_annual_deposit = fields.Float(description="Maximum annual deposit allowed")
+    annual_deposits_allowed = fields.Integer(description="Number of deposits allowed per year")
+
+class RemainingLimitSchema(Schema):
+    year = fields.Integer(description="Year for the limit calculation")
+    remaining_limit = fields.Float(description="Remaining amount available for the year")
+    annual_limit = fields.Float(description="Total annual limit")
